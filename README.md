@@ -1,2 +1,2 @@
 # QuantitativeTrading
-Run Final.ipynb
+Run QuantitativeTrading.ipynb
